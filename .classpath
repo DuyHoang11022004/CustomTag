@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Custom_Tag/src/java"/>
+	<classpathentry kind="lib" path="Custom_Tag/build/web/WEB-INF/lib/jakarta.servlet.jsp.jstl-2.0.0.jar"/>
+	<classpathentry kind="lib" path="Custom_Tag/build/web/WEB-INF/lib/jakarta.servlet.jsp.jstl-api-2.0.0.jar"/>
+	<classpathentry kind="lib" path="Custom_Tag/build/web/WEB-INF/lib/mysql-connector-java-8.0.29.jar"/>
+	<classpathentry kind="lib" path="Custom_Tag/web/WEB-INF/lib/jakarta.servlet.jsp.jstl-2.0.0.jar"/>
+	<classpathentry kind="lib" path="Custom_Tag/web/WEB-INF/lib/jakarta.servlet.jsp.jstl-api-2.0.0.jar"/>
+	<classpathentry kind="lib" path="Custom_Tag/web/WEB-INF/lib/mysql-connector-java-8.0.29.jar"/>
+	<classpathentry kind="output" path="Custom_Tag/build/web/WEB-INF/classes"/>
+</classpath>
